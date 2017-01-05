@@ -38,5 +38,7 @@ At this point you should be able to query your /etc/freedns/dynFreeDNSUpdate.log
 crontab -e
 ```
 * Add a new entry to execute the job every 30 minutes
+```
 0,30 * * * * sh /etc/freedns/dynFreeDNSUpdate.sh
+```
 There is no need to restart the cron service, the job will be executed in 30 minutes

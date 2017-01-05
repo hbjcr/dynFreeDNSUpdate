@@ -1,5 +1,5 @@
 # dynFreeDNSUpdate
-Bash script to keep your dynamic DNS from freedns.afraid.org & Cactus VPN updated
+Bash script to keep your dynamic DNS from [freedns.afraid.org](https://freedns.afraid.org) & [Cactus VPN](https://www.cactusvpn.com/) updated
 
 Inspiration from: http://freedns.afraid.org/scripts/dnsactual.sh.txt
 

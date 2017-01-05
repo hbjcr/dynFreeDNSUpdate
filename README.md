@@ -26,8 +26,8 @@ chmod +x /etc/freedns/dynFreeDNSUpdate.sh
 ```
 * Modify your dynFreeDNSUpdate.sh
 Edit your /etc/freedns/dynFreeDNSUpdate.sh using your favorite editor and include the following changes:
-- Replace the [freedns direct URL] placeholder (line #26) with your actual freedns' direct URL
-- Replace the [CactusVPN validation URL] placeholder (line #27) with your actual CactusVPN's validation URL
+ - Replace the [freedns direct URL] placeholder (line #26) with your actual freedns' direct URL
+ - Replace the [CactusVPN validation URL] placeholder (line #27) with your actual CactusVPN's validation URL
 * Execute the script for the first time
 ```
 ./etc/freedns/dynFreeDNSUpdate.sh
